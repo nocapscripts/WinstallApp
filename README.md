@@ -1,4 +1,4 @@
-# Winstaller
+# Winstaller Prerelease
 
 A lightweight Windows software installer.
 
