@@ -257,3 +257,8 @@ Planned improvements include:
 - 🪟 Windows installer/package distribution
 
 ---
+
+
+## App Setup
+
+To set up the app get it from the [releases page](https://github.com/nocapscripts/WinstallApp/releases/tag/Release).
