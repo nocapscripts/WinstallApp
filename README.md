@@ -262,3 +262,10 @@ Planned improvements include:
 ## App Setup
 
 To set up the app get it from the [releases page](https://github.com/nocapscripts/WinstallApp/releases/tag/Release).
+
+
+
+# Fixes 
+
+- fixed choco manager 
+- some ui changes
